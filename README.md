@@ -20,3 +20,5 @@ monte = main(20,16,100,10);
 This asks for a network of 20 nodes, 16 of which are connected with edges. Edge weights are randomly applied.
 The Monte Carlo run repeats 100 times and at every 10 produces a plot and a report on matches found.
 The output is a 100x4 matrix containing the results of each run in each row.
+
+Sample output from a Monte Carlo run can be viewed at https://www.youtube.com/watch?v=s88b38EcXfc
